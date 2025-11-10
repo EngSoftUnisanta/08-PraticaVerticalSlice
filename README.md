@@ -1,4 +1,4 @@
-# 🎓 Roteiro de Aprendizagem: Arquitetura Vertical Slice com .NET 8
+# 🎓 Roteiro de Aprendizagem: Arquitetura Vertical Slice com .NET 9
 
 ## 📚 Índice
 1. [Introdução](#introdução)
@@ -14,7 +14,7 @@
 
 ## 🎯 Introdução
 
-Bem-vindo ao roteiro de aprendizagem sobre **Vertical Slice Architecture**! Este projeto foi criado para ajudá-lo a entender e aplicar esta arquitetura moderna usando .NET 8 e C#.
+Bem-vindo ao roteiro de aprendizagem sobre **Vertical Slice Architecture**! Este projeto foi criado para ajudá-lo a entender e aplicar esta arquitetura moderna usando .NET 9 e C#.
 
 ### O que você vai aprender:
 - ✅ Conceitos fundamentais da Vertical Slice Architecture
@@ -613,21 +613,11 @@ Se você terminou a atividade principal e quer mais desafios:
    git push origin minha-implementacao
    ```
 
-6. **Submeta o link do seu repositório**
+6. **Submeta o link do seu repositório na atividade atribuída no TEAMS**
    - Envie o link do seu fork no GitHub
    - Formato: `https://github.com/seu-usuario/08-PraticaVerticalSlice`
    - Certifique-se de que o repositório está público
 
-### O que será avaliado:
-
-| Critério | Peso |
-|----------|------|
-| Estrutura de pastas correta | 10% |
-| Handler implementado corretamente | 30% |
-| Endpoint configurado corretamente | 30% |
-| Registro no Program.cs | 10% |
-| Código compila e executa | 10% |
-| Funcionalidade testada e funcionando | 10% |
 
 ### Checklist de Entrega:
 
